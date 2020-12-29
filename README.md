@@ -1,4 +1,4 @@
 # Sheelacode
-This is an sample 
-naan dhan shivani swaroop 
-im learning github 
+This is a sample 
+I'm shivani swaroop 
+I'm learning github 
