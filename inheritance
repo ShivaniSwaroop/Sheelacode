@@ -1,0 +1,8 @@
+class Animal {
+    // eat() function
+    // sleep() function
+};
+
+class Dog : public Animal {
+    // bark() function
+};
